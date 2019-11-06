@@ -1,4 +1,4 @@
-package com.nickruta.jblogger.utils;
+package com.sivalabs.jblogger.utils;
 
 import org.junit.jupiter.api.Test;
 
