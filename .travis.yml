@@ -1,6 +1,6 @@
 sudo: required
 language: java
-jdk: oraclejdk9
+jdk: oraclejdk8
 
 services:
   - docker
