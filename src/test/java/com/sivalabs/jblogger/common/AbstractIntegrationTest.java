@@ -1,4 +1,4 @@
-package com.nickruta.jblogger.common;
+package com.sivalabs.jblogger.common;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.beans.factory.annotation.Autowired;

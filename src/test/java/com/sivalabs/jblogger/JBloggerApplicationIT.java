@@ -1,6 +1,6 @@
-package com.nickruta.jblogger;
+package com.sivalabs.jblogger;
 
-import com.nickruta.jblogger.common.AbstractIntegrationTest;
+import com.sivalabs.jblogger.common.AbstractIntegrationTest;
 import org.junit.jupiter.api.Test;
 
 class JBloggerApplicationIT extends AbstractIntegrationTest {

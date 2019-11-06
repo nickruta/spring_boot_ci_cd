@@ -1,7 +1,7 @@
-package com.nickruta.jblogger.security;
+package com.sivalabs.jblogger.security;
 
-import com.nickruta.jblogger.entities.Role;
-import com.nickruta.jblogger.entities.User;
+import com.sivalabs.jblogger.entities.Role;
+import com.sivalabs.jblogger.entities.User;
 import org.junit.jupiter.api.Test;
 
 import java.util.ArrayList;

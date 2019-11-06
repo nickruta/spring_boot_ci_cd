@@ -1,7 +1,7 @@
-package com.nickruta.jblogger.domain;
+package com.sivalabs.jblogger.domain;
 
-import com.nickruta.jblogger.entities.PageView;
-import com.nickruta.jblogger.entities.Post;
+import com.sivalabs.jblogger.entities.PageView;
+import com.sivalabs.jblogger.entities.Post;
 import org.junit.jupiter.api.Test;
 
 import java.util.ArrayList;

@@ -1,7 +1,7 @@
-package com.nickruta.jblogger.security;
+package com.sivalabs.jblogger.security;
 
-import com.nickruta.jblogger.entities.User;
-import com.nickruta.jblogger.repositories.UserRepository;
+import com.sivalabs.jblogger.entities.User;
+import com.sivalabs.jblogger.repositories.UserRepository;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;
